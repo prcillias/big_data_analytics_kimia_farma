@@ -15,3 +15,7 @@ This project evaluates the business performance of Kimia Farma from 2020 to 2023
 * Explore key trends and patterns within the data to gain insights into business operations
 * Develop an interactive dashboard
 * Provide actionable insights and recommendations based on the data analysis to support business decision-making
+
+## Dashboard
+[Interactive Dashboard in Google Looker Studio](https://lookerstudio.google.com/s/ncvpUpqCuF8)
+![](dashboard.png)
